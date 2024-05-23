@@ -4,6 +4,8 @@
 之后所有的流量都会转到192.168.1.100，
 如果你要代理到其它地址也是一样
 主要是有时公网隧道只有一条的情况
+
+
 This is a configuration of nginx proxy LAN for any IP
 Suppose you want to proxy http://192.168.1.100
 Then please enter: http://nginxip?lanset=192.168.1.100
